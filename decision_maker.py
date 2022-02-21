@@ -9,7 +9,7 @@ import product
 import upgrade
 import money_tracker
 
-CHROME_DRIVER_PATH = "E:/Programming/chromedriver.exe"
+CHROME_DRIVER_PATH = "chromedriver.exe"
 URL = "https://orteil.dashnet.org/cookieclicker/"
 SAVE_FILENAME = "latest_save.txt"
 
